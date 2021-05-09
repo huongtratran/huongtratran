@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @huongtratran
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-huongtratran/huongtratran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Xin chào. Tôi là Hương Trà - Headhunter
+Tôi đang hỗ trợ khách hàng tìm kiếm ứng viên cho nhiều vị trí IT.
+Xin hãy vui lòng ib trực tiếp qua zalo 0369055454 để trao đổi trực tiếp jd
